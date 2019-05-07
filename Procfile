@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT itmaxaz_3019.wsgi:application
